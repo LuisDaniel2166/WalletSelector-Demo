@@ -5,7 +5,7 @@ import About from "./views/About"
 
 function App() {
   return (
-    <div className="App bg-slate-600">
+    <div className="App">
       <Routes>
         <Route path="/" element={ <Home/> } />
         <Route path="about" element={ <About/> } />
