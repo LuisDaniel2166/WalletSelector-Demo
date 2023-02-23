@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Wallet Selector Demo 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_En este repo encontraras un proyecto en el cual se encontrara implementacion de Wallet Selector sobre un proyecto de React con Tailwind CSS y React-Router_
 
-## Available Scripts
+## Comenzando ✨
 
-In the project directory, you can run:
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Pre-requisitos 📋
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+_Este proyecto fue realizado sobre Node.JS por lo que es necesaria su instalacion para la ejecucion de este proyecto_
 
-### `npm test`
+```
+Se ha usado Node.JS 16.14.2 para el desarrollo del contenido de este repositorio
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Ejecucion del proyecto 🔧
 
-### `npm run build`
+_Una vez clonado el repositorio necesitas ejecutar estos comandos para poder correr este proyecto_
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+_Instalar todos los paquetes del proyecto_
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+_Una vez haya finalizado la instalacion de paquetes para poder correr el proyecto debes ejecutar el siguiente comando_
 
-### `npm run eject`
+_Iniciar el proyecto_
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+_Una vez finalizados estos pasos podras ejecutar este proyecto de manera correcta_ 😁
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Construido con 🛠️
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+_Menciona las herramientas que utilizaste para crear tu proyecto_
 
-## Learn More
+* [React](https://reactjs.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [React-Router](https://reactrouter.com/en/main)
+* [Wallet Selector](https://docs.near.org/tools/wallet-selector)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Autores ✒️
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* **Luis Daniel Mendez Castellanos** - *Desarrollo del repositorio* - [LuisDaniel2166](https://github.com/LuisDaniel2166)
 
-### Code Splitting
+## Expresiones de Gratitud 🎁
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* etc.
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+⌨️ con ❤️ por [LuisDaniel2166](https://github.com/LuisDaniel2166) 😊
