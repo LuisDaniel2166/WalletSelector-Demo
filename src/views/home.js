@@ -35,6 +35,7 @@ function Home() {
         finality: "optimistic",
       });
       let messages = JSON.parse(Buffer.from(data.result).toString());
+      console.log(messages)
       setMessages({
         ...messages,
         items: messages.reverse(),
@@ -131,7 +132,7 @@ function Home() {
       <div className="flex pt-4 w-full px-6 justify-center flex-col">
         <p className="text-2xl font-bold pb-4">Ultimos mensajes:</p>
         <table className="table-fixed w-full text-gray-100">
-          <thead className="bg-gray-600">
+          <thead className="bg-gray-600 text-xl">
             <tr>
               <th>Usuario</th>
               <th>Mensaje</th>
@@ -141,7 +142,7 @@ function Home() {
             {messages.items.map((data, key) => {
               return (
                 <>
-                  <tr className="bg-gray-400">
+                  <tr className="bg-gray-400 text-lg">
                     <td className="border-2">{data.sender}</td>
                     <td className="border-2">{data.text}</td>
                   </tr>
