@@ -21,7 +21,7 @@ function Home() {
       setNearAccount(accountId);
     }
   }, [accountId]);
-
+  //test
   //useEffect para poder recuperar los ultimos mensajes en el contrato
   useEffect(() => {
     async function getData() {
